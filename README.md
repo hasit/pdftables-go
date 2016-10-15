@@ -1,5 +1,8 @@
 # pdftables-go
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/hasit/pdftables-go)](https://goreportcard.com/report/github.com/hasit/pdftables-go)
+[![GoDoc Reference](https://godoc.org/github.com/hasit/pdftables-go?status.svg)](https://godoc.org/github.com/hasit/pdftables-go)
+
 pdftables-go is an SDK for using [PDFTables' API](https://pdftables.com/pdf-to-excel-api) in your Go application. [PDFTables](https://pdftables.com) automates extraction of data from PDF files.
 
 ## Install
